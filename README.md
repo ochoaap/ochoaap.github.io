@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 markdown
 Syntax highlighted code block
 
-# Welcome to my mark up page
-## This is my second header
-### and for some reason it has three! 
+# Welcome to my coding page! 
+## Success is my only option
+### I am hear to learn and grow
 
 - Things I have learned. 
 - What a repository is
