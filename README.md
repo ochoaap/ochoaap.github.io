@@ -24,6 +24,6 @@
 
 
 ### Table of Contents for my days 
-1. [Class 3](https://ochoaap.github.io/reading-notes)  
+1. [Class 2](https://ochoaap.github.io/reading-notes)  
 1. [Class 3](https://ochoaap.github.io/reading-notes/class-03)
 1. [Class 4]()
